@@ -1,0 +1,101 @@
+aid: ericsson
+name: Ericsson
+description: >-
+  Ericsson (Telefonaktiebolaget LM Ericsson) is a Swedish multinational
+  networking and telecommunications equipment vendor headquartered in Kista,
+  Stockholm. Founded in 1876, the company supplies mobile and fixed network
+  infrastructure to communication service providers worldwide and operates
+  across three product areas: Networks (5G RAN, 5G Core, Cloud RAN, transport),
+  Cloud Software & Services (OSS/BSS, orchestration, billing, charging,
+  analytics), and Enterprise Wireless Solutions (private 5G via Cradlepoint).
+  Ericsson holds more than 60,000 granted patents and operates 21 R&D centers,
+  with networks that carry roughly 40 percent of the world's mobile data
+  traffic. In 2024 Ericsson and twelve major operators — AT&T, Bharti Airtel,
+  Deutsche Telekom, KDDI, Orange, Reliance Jio, Singtel, Telefonica, Telstra,
+  T-Mobile, Verizon, and Vodafone — closed Aduna, a 50:50 joint venture that
+  aggregates CAMARA-aligned network APIs (SIM Swap, Number Verification,
+  Quality on Demand, Device Location, Device Reachability, Scam Signal, Call
+  Forwarding Signal, Connectivity Insights, OTP SMS) and exposes them through
+  hyperscaler and CPaaS channel partners (Microsoft Azure Marketplace, Google
+  Cloud, Vonage, Sinch, Infobip). Ericsson also owns Vonage (acquired 2022),
+  which operates the public-facing developer portal for many of these network
+  capabilities, and runs the Ericsson Intelligent Automation Platform (EIAP)
+  for ORAN-aligned rApp development. Ericsson does not publish a single
+  consolidated developer portal or canonical OpenAPI catalog at
+  ericsson.com — its programmable surface is delivered indirectly through
+  Aduna, Vonage, and channel partners, and most of its public GitHub presence
+  is research tooling and infrastructure software (CodeChecker, CodeCompass,
+  ecchronos) rather than developer-facing APIs.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Telecommunications
+  - Networks
+  - 5G
+  - 5G RAN
+  - 5G Core
+  - Cloud RAN
+  - ORAN
+  - Network APIs
+  - CAMARA
+  - Aduna
+  - Programmable Networks
+  - Network Exposure
+  - Telecom Equipment
+  - Enterprise Wireless
+  - Private 5G
+  - OSS BSS
+  - Vonage
+  - Cradlepoint
+  - Sweden
+url: https://raw.githubusercontent.com/api-evangelist/ericsson/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.ericsson.com/en
+  - type: NetworkAPIs
+    url: https://www.ericsson.com/en/enterprise/network-apis
+  - type: Aduna
+    url: https://adunaglobal.com/
+  - type: AdunaNewsroom
+    url: https://adunaglobal.com/newsroom/
+  - type: Vonage
+    url: https://developer.vonage.com/en/home
+  - type: EnterpriseWireless
+    url: https://www.cradlepoint.com/
+  - type: IntelligentAutomationPlatform
+    url: https://www.ericsson.com/en/cloud-software-and-services/intelligent-automation-platform
+  - type: CAMARA
+    url: https://camaraproject.org/
+  - type: About
+    url: https://www.ericsson.com/en/about-us
+  - type: Newsroom
+    url: https://www.ericsson.com/en/news
+  - type: Blog
+    url: https://www.ericsson.com/en/blog
+  - type: ResearchBlog
+    url: https://www.ericsson.com/en/blog/research
+  - type: Investors
+    url: https://www.ericsson.com/en/investors
+  - type: Careers
+    url: https://www.ericsson.com/en/careers
+  - type: GitHub
+    url: https://github.com/Ericsson
+  - type: GitHubResearch
+    url: https://github.com/EricssonResearch
+  - type: GitHubIAP
+    url: https://github.com/ericsson-iap
+  - type: Twitter
+    url: https://twitter.com/ericsson
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ericsson
+  - type: YouTube
+    url: https://www.youtube.com/@ericsson
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
