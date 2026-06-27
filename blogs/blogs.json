@@ -3,13 +3,12 @@
   "feeds": [
     {
       "source": "https://www.ericsson.com/en/blog",
-      "error": "HTTPError"
-    },
-    {
-      "source": "https://www.ericsson.com/en/news",
-      "error": "HTTPError"
+      "feed_url": "",
+      "saved": 3,
+      "method": "agent-scrape"
     }
   ],
-  "post_count": 3,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:40:25Z",
+  "post_count": 12,
+  "agent_pulled": "2026-06-27"
 }
