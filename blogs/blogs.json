@@ -2,13 +2,11 @@
   "repo": "ericsson",
   "feeds": [
     {
-      "source": "https://www.ericsson.com/en/blog",
-      "feed_url": "",
-      "saved": 3,
-      "method": "agent-scrape"
+      "source": "https://www.ericsson.com/en/news",
+      "error": "HTTPError"
     }
   ],
-  "fetched": "2026-06-27T12:40:25Z",
-  "post_count": 12,
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 16,
   "agent_pulled": "2026-06-27"
 }
